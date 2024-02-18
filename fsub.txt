@@ -2,8 +2,5 @@
 #Seperate forcesub channels in each line in this format
 #chat_id, invite_link
 
--1002037461526, https://t.me/+IfklT5Tj4vo5NDQx
--1002126415310, https://t.me/+AqLUv2uMB_Q4ZjQx
--1001906843339, https://t.me/+EcysAPY5fcY3MjQx
--1001983875619, https://t.me/+6kVb3N-b9wYzN2Mx
--1002103507562, https://t.me/+gaoHS8SKl-w4YTI5
+-1001991695797, https://t.me/+EE-sf1mLLXAyZWYx
+-1002081894977, https://t.me/+UcPRIhpsvkVhYWUx
