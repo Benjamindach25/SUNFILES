@@ -28,7 +28,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6949902115"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://maya:maya@maya.kweokda.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://maya:maya@maya.5bnfyfk.mongodb.net/?retryWrites=true&w=majority&appName=maya")
 DB_NAME = os.environ.get("DATABASE_NAME", "mayava")
 
 
